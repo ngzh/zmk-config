@@ -17,3 +17,7 @@ include:
     shield: anise60b_left 
   - board: anisectlc_10
     shield: anise60b_right 
+  - board: anisectlp_01
+    shield: anise85a_left
+  - board: anisectlp_01
+    shield: anise85a_right
