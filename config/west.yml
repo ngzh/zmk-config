@@ -1,0 +1,11 @@
+manifest:
+  remotes:
+    - name: anisehid
+      url-base: https://github.com/anisehid
+  projects:
+    - name: zmk
+      remote: anisehid
+      revision: main
+      import: app/west.yml
+  self:
+    path: config
