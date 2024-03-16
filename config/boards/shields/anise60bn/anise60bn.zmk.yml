@@ -2,8 +2,8 @@ file_format: "1"
 id: anise60bn
 name: Anise60BNav Rev. 1
 type: shield
-url: https://github.com/ngzh/anise-kbd
-requires: [pro_micro]
+url: https://github.com/anisehid/anise60bn
+requires: [anise_ctl]
 features:
   - keys
   - underglow
