@@ -17,20 +17,20 @@ include:
     shield: anise60b_left 
   - board: anisectlp_01
     shield: anise60b_right 
-  - board: anisectlp_01
-    shield: anise60bn_left 
-  - board: anisectlp_01
-    shield: anise60bn_right 
-  - board: anisectlp_01
-    shield: anise85a_left
-  - board: anisectlp_01
-    shield: anise85a_right
-  - board: anisectlp_01
-    shield: anise85n_left
-  - board: anisectlp_01
-    shield: anise85n_right
-  - board: anisectlc_10
-    shield: anise85n_left
-  - board: anisectlc_10
-    shield: anise85n_right
+#  - board: anisectlp_01
+#    shield: anise60bn_left 
+#  - board: anisectlp_01
+#    shield: anise60bn_right 
+#  - board: anisectlp_01
+#    shield: anise85a_left
+#  - board: anisectlp_01
+#    shield: anise85a_right
+#  - board: anisectlp_01
+#    shield: anise85n_left
+#  - board: anisectlp_01
+#    shield: anise85n_right
+#  - board: anisectlc_10
+#    shield: anise85n_left
+#  - board: anisectlc_10
+#    shield: anise85n_right
 
